@@ -1,6 +1,6 @@
 # How to set-up
 Run
-``` python
+``` shell
 pip install requirements.txt
 ```
 
